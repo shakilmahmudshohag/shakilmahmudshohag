@@ -11,6 +11,8 @@
 
  
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
+ [![TWITTER](https://img.shields.io/badge/-Twitter-ffffff?style=flat&logo=Twitter&logoColor=0984e3)]( https://twitter.com/shakil_201)
+
  
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
