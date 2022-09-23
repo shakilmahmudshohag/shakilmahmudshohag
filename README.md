@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I am a quick learner
 
 
-[MY LINKEDIN]([https://www.google.com "Google's Homepage"](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/))
+(https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
 
