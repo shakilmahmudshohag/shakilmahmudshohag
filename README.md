@@ -7,5 +7,7 @@
 - 💬 Ask me about anything you like
 - 📫 How to reach me: ++++++
 - ⚡ Fun fact: I am a quick learner
-[Linkdin](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
+
+
+(https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
 
