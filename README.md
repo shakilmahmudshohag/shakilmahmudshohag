@@ -8,7 +8,7 @@
 - 📫 How to reach me: ++++++
 - ⚡ Fun fact: I am a quick learner
 
- [-LINKEDIN](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/ "LINKEDIN")
+
  
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
 
