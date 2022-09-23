@@ -8,6 +8,6 @@
 - 📫 How to reach me: ++++++
 - ⚡ Fun fact: I am a quick learner
 
-
-(https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/)
+[I'm an inline-style link with title](https://www.linkedin.com/in/mohammad-shakil-mahmud-shohag-05ba35222/ "LINKEDIN")
+()
 
