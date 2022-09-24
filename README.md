@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on learing
 - 🤔 I’m looking for help with Software engineer
 - 💬 Ask me about anything you like
-- 📫 How to reach me: ++++++
 - ⚡ Fun fact: I am a quick learner
+- 📫 How to reach me:
 
 
  
