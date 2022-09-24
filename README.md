@@ -31,6 +31,13 @@
 ![](https://user-images.githubusercontent.com/41143496/111524041-fc65e800-8781-11eb-8a84-ae5e8517b1f7.mp4)
  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilmahmudshohag&&layout=compact&hide=shell&theme=jolly"/> 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilmahmudshohag&theme=dark" alt="shakilmahmudshohag" /></p>
+<br/>
+ <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+
+> <a href="https://github.com/shakilmahmudshohag/github-readme-activity-graph"><img alt="Baruch favour' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakilmahmudshohag&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 ![Thank You ](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
 
