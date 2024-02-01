@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on learing
 - 🤔 I’m looking for help with Software engineer
 - 💬 Ask me about anything you like
